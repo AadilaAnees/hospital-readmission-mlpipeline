@@ -1,0 +1,8 @@
+venv/
+data/raw/
+mlflow/
+__pycache__/
+*.zip
+*.pyc
+.env
+.kaggle/
